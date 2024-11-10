@@ -1,0 +1,12 @@
+.field-result {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+canvas {
+  display: block;
+  background-color: aquamarine;
+  border: 1px solid rgb(8, 80, 76);
+  cursor: pointer;
+}

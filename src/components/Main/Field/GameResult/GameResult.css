@@ -1,0 +1,14 @@
+.gamer {
+  width: max-content;
+  text-align: center;
+}
+.gamer__text {
+  margin: 0.1rem 0;
+}
+.gamer__result{
+  display: block;
+  width: 2.5rem;
+  height: 1.5rem;
+  margin: auto;
+  border: 1px solid #000;
+}
